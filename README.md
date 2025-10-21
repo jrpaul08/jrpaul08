@@ -1,6 +1,6 @@
 [![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi There, I'm Jared Paul</h1>
-<h3 align="center">A Passionate Software Developer and Data Analyst</h3>
+<h3 align="center">A Passionate Data Scientist with a bachelors Degree in Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
 
 - 🔭 I’m currently working on **ProHooperPortal (Basketball Statistics Website)**
