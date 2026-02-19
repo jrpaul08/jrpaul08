@@ -3,9 +3,9 @@
 <h3 align="center">A Passionate Data Scientist with a bachelors Degree in Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
 
-- 🔭 I’m currently working on **NBA Oracle (Basketball Prediction Model) **
+- 🔭 I’m currently working on **NBA Oracle (Basketball Prediction Model)**
 
-- 🌱 Currently expanding my data science skill set into data engineering, with a focus on ETL processes and building scalable data pipelines. ****
+- 🌱 Currently expanding my data science skill set into **data engineering**, with a focus on **ETL processes and building scalable data pipelines.**
 
 - 📫 How to reach me **pauljared48@gmail.com**
 
